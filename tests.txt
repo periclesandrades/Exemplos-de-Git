@@ -1,0 +1,17 @@
+onteúdo Programático:
+
+    Introdução a Automação
+    Tratamento de demandas
+    Documentação e planejamento
+    Entendendo o que é a Gerência de Configurações
+    Diferenças entres Ansible , Chef e Puppet
+    Entendendo o que é a Gerência de Configurações
+
+    Introdução, Instalação e Componentes do Ansible
+    Características e Funcionalidades do Ansible
+    Instalação do Ansible
+    Gerenciamento de servidores
+    Fazer o inventário do Ansible
+    Trabalhar com Formato YAML
+    Cenário Ambiente de Testes: Padronização de pacotes e usuários
+
